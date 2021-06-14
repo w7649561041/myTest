@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4d9a9ad5512f240a088f2c76fb50e3, type: 3}
+  m_Name: posionR
+  m_EditorClassIdentifier: 
+  itemName: "\u7D05\u8272\u85E5\u6C34"
+  itemImage: {fileID: 21300000, guid: 3b79b802e9fd8434aa4157f0faa58cfe, type: 3}
+  itemHold: 3
+  itemInfo: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u7D05\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+  key: 0
